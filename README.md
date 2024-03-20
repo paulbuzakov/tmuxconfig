@@ -4,11 +4,11 @@ In this repository, you will find all of my personal settings for tmux. Configur
 
 Before getting started, you should install **LazyGit**. I use this package a lot and find it useful.
 
-![screen1](images/screen1.png)
+![screen1](article/screen1.png)
 
 ## Install
 
-Copy the **tmux** folder into the next folder _~/.config/*_. Use of this folder in Linux and MacOS - I didn’t check my configuration in Windows, yet.
+Copy the **tmux** folder into the next folder _~/.config/\*_. Use of this folder in Linux and MacOS - I didn’t check my configuration in Windows, yet.
 
 ## Additional keyboard shortcuts
 
