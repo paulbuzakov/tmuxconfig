@@ -14,7 +14,9 @@ Copy the **tmux** folder into the next folder _~/.config/\*_. Use of this folder
 
 `Ctrl` `b` `r` - Reload **tmux** online if you changed config files (I used it when developing this config).
 
-`Ctrl` `b` `o` - Open the folder that contains the current pane.
+`Ctrl` `b` `o` - Open the folder that contains the current pane using MC shell application.
+
+`Ctrl` `b` `O` - Open the folder that contains the current pane.
 
 `Ctrl` `b` `e` - Close all panes in the window expect of the current one.
 
